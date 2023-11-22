@@ -1,11 +1,11 @@
 # Q1. Give 5 examples for each:
 # - Valid variable
-name, year
+"""name, year"""
 # - Invalid Variable
-class, input
+"""class, input"""
 
 # Q2. Give 2 examples for each:
 # - Reserved Keywords
-name, account
+"""name, account"""
 # - Not recommended variable names
-using of class without hyphen, putting of numbers before data
+"""using of class without hyphen, putting of numbers before data"""
