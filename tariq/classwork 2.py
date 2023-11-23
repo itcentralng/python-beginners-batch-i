@@ -8,4 +8,4 @@
 # - Reserved Keywords
 """name, account"""
 # - Not recommended variable names
-"""using of class without hyphen, putting of numbers before data"""
+"""using of class without hyphen example class_ instead of class only, putting of numbers before data example 2persons"""
