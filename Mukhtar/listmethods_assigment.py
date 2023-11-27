@@ -37,7 +37,7 @@ print(songs)
 
 # index	Adds an element at the specified position
 
-classes = ['js1' , 'js2']
+classes = ['js1' , 'js5']
 x=classes.index("js1")
 print(x)
 

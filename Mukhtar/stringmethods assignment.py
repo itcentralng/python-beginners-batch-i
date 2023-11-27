@@ -60,7 +60,7 @@ print(message)
 nigeria = 'country'
 print(nigeria.index('t'))
 
-# isalnum..... returns T/F if the string has alphanumeric in a string
+# isalnum..... returns T/F if the character has alphanumeric in a string
 item = 'JAMBOX_'
 print(item.isalnum())
 
@@ -85,5 +85,5 @@ print(v)
 
 # split
 footballers = 'ronaldo, neymar, benzema'
-players = footballers.maxsplit()
+players = footballers.split()
 print(players)
