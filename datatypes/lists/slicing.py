@@ -8,3 +8,5 @@ print(people[-1])
 print(people[::1])
 print(people[::2])
 print(people[::-1])
+
+print(people)
