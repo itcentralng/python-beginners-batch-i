@@ -26,3 +26,7 @@ print(student.popitem())
 student.update(student2)
 
 print(student)
+
+student = {}
+
+print(student.fromkeys(["name", "age"], ""))
