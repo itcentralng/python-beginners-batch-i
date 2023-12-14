@@ -1,0 +1,2 @@
+itsReady = True
+itsDone = False
