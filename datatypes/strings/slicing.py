@@ -1,0 +1,11 @@
+name = "Kabir Sani Abdullahi"
+print(name[0:5])
+print(name[:5])
+print(name[6:10])
+print(name[11:20])
+print(name[11:])
+print(name[:])
+print(name[0:20:5])
+print(name[0])
+print(name[-1])
+print(name[::-1])
