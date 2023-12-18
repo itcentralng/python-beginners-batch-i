@@ -1,12 +1,9 @@
-people = ["Mukhtar", "Tariq", "Maryam"]
-print(people[:2])
-print(people[:])
-print(people[1:])
-print(people[2:])
-print(people[0])
-print(people[-1])
-print(people[::1])
-print(people[::2])
-print(people[::-1])
+friends = ["Yaroson","Tariqussalat","Baby Boy"]
 
-print(people)
+t = "Mukhtar"
+print(t[:2])
+print(t[0])
+
+print(friends[0:2])
+
+# Q1. From the friends list above, print out the substring 'Boy'
