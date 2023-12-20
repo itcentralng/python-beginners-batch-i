@@ -31,10 +31,9 @@ minus_student = students.pop(0)
 student['first_student'] = minus_student
 print(student)
 
-items2 = students [4:6]
-items2_ = tuple(items2)
-
-print(items2_)
+items2 = students.pop(), students.pop()
+items2 = items2[::-1]
+print(items2)
 
 student['age'] = 18
 student['gender'] = 'male'
