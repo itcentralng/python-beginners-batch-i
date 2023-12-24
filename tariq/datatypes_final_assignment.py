@@ -14,6 +14,7 @@
 
 #Q1
 students = ["Abdul", "Mansur", "Haruna", "Abubakar", "Ibrahim"]
+print(students)
 
 #Q2
 x = students[:2]
@@ -25,7 +26,7 @@ print(last_two_students)
 
 #Q4
 new_student1 = "Tariq"
-new_student2 = "Nasir"
+new_student2 = "Kabir"
 
 #Q5
 students.append(new_student1)
@@ -38,7 +39,7 @@ student = {}
 #Q7
 removed_student = students.pop(0)
 student["first_student"] = removed_student
-print(students)
+print(students) 
 print(student)
 
 #Q8.
@@ -49,12 +50,11 @@ print(students)
 print(students_tuple)
 
 #Q9.
-student["age"] = 28
+student["age"] = 15 
 student["gender"] = "Male"
 student["height"] = 169.5
 print(student)
 
-#Q10. Store a value for the student in the dictionary that indicates whether the student
-# is admitted or not using a boolean.
+#Q10.
 student["admitted"] = True
 print(student)
